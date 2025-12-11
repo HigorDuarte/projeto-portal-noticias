@@ -1,0 +1,19 @@
+.grid {
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
+}
+
+.grid-cols-2 {
+  grid-template-columns: 1fr 1fr;
+}
+
+.img-cover {
+  background-image: cover;
+}
+
+gap-16{
+  gap: 16px;
+}
